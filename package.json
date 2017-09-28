@@ -1,0 +1,38 @@
+{
+  "name": "ngstuff-tooltip",
+  "version": "1.0.0",
+  "description": "An AngularJS module for UI tooltip functionalities",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngStuff/tooltip.git"
+  },
+  "keywords": [
+    "angularjs",
+    "validator",
+    "form",
+    "form-fields",
+    "fields"
+  ],
+  "author": "Christian Ezeani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngStuff/tooltip/issues"
+  },
+  "homepage": "https://github.com/ngStuff/tooltip#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.16",
+    "uglifyjs-webpack-plugin": "^0.4.6",
+    "webpack": "^3.5.6"
+  }
+}

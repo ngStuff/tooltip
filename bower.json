@@ -1,0 +1,17 @@
+{
+  "name": "ngstuff-tooltip",
+  "description": "An AngularJS module for UI tooltip functionalities",
+  "main": "src/index.js",
+  "authors": [
+    "Christian Ezeani"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ngStuff/tooltip",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
